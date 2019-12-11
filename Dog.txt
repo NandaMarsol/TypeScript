@@ -1,0 +1,9 @@
+/* 
+   codigo : number;
+   nome: string;
+   raça: string;
+   tamanho: string;
+   personalidade: string;
+   idade: number;
+
+   */ 
